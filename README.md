@@ -1,4 +1,4 @@
-mattsTestRepos
+mattsTestRepo
 ==============
 
-just a test
+here to experiment with git functions 
